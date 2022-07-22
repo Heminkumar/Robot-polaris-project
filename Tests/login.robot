@@ -3,7 +3,7 @@ Library  SeleniumLibrary
 Documentation  Login Functionality
 Library  SeleniumLibrary
 Test Teardown     Close All Browsers
-Documentation  Login Functionality
+Documentation  Login Functionality into Polaris-staging
 Library  SeleniumLibrary
 
 *** Variables ***
