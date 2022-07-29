@@ -42,5 +42,7 @@ Open Amazon and enter text in search area
     #log to console    ${random_email}
     #Input Text          email      ${random_email}
     input text    id:ap_email     ${random_email}
+    ${random_pass}     Generate Random Password    ${8}
+    log to console    ${random_pass}
     click button    id:continue
     Close Browser
